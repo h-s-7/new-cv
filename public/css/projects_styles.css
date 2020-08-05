@@ -1,0 +1,86 @@
+.header{
+	font-family: 'Pacifico', cursive;
+	color: #66BFBF;
+	background-color: #E4F9F5;
+	text-align: center;
+	padding-top: 5%;
+	padding-bottom: 5%; 
+}
+
+.header h1{
+	font-size: 6vw;
+}
+
+.intro{
+	padding-top: 5%;
+	padding-bottom: 5%;
+	text-align: center;
+
+}
+.intro h1{
+	color: #66BFBF;
+	font-size: 3vw;
+}
+.intro	p{
+	font-size: 	2vw;
+}
+.projects{
+	padding: 5% 20%;
+	text-align: center;
+}
+
+
+.carousel{
+	padding-top: 5%;
+	padding-bottom: 5%;
+}
+
+.secret{
+	background-color:#424874; 
+	color: white;
+}
+#nav-logo{
+	border-radius: 20px;
+}
+.nav-back{
+	background-color: #E4F9F5;
+
+}
+.blog{
+	background-color: #1fab89;
+	color: white;
+}
+.to-do{
+	background-color: #204051;
+	color: white;
+}
+.tindog{
+	background-color: #5b5656;
+	color: white;
+}
+.face{
+	background-color: #df5e88;
+	color: white;
+}
+.foot-link:hover {
+	color: white;
+}
+.contact-me{
+	text-align: center;
+	padding-top: 5%;
+	padding-bottom: 5%
+}
+.btn_message {
+	background-color: #11999E;
+	width: 15%;
+	color: white;
+	padding:10px 20px;
+	border-radius: 5px; 
+ }
+.bottom{
+	padding-top: 70px;
+	background-color: #E4F9F5;
+	text-align: center;
+}
+
+@media screen and (max-width: 320)
